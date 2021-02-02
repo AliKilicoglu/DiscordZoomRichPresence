@@ -13,5 +13,5 @@ A Discord rich presence shows "Playing Zoom" in your state
 [![Photo](https://i.resmim.net/8LSdb.png "Photo")](https://i.resmim.net/8LSdb.png,"Photo")
 - **Click *"General Information"* button from left panel**
 - **Copy Client id**
-- **Double click code you download then enter Client id which you copied **
+- **Double click code you download then enter Client id which you copied**
 - **Kaboom ! Now if you look your state in Discord you see**
